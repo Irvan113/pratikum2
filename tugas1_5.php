@@ -47,7 +47,7 @@
                 <option value="Sistem Informasi">Sistem Informasi</option>
                 <option value="Informatika">Informatika</option>
                 <option value="Teknologi Informasi">Teknologi Informasi</option>
-                <option value="Ilmu Komputer" selected>Ilmu Komputer</option>
+                <option value="Ilmu Komputer" selected>Manajemen Informasi</option>
                 </select>
                 </td>
             </tr>
